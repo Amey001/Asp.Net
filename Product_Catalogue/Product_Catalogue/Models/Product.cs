@@ -20,8 +20,10 @@ namespace Product_Catalogue.Models
 
         [Required(ErrorMessage = "field is empty ")]
         [EnumDataType(typeof(Category))]
-        public Category category { get; set; } 
-        public DateOnly mfgDate { get; set; }
+        public Category category { get; set; }
+
+        [DataType(DataType.Date)]
+        public DateTime mfgDate { get; set; }
 
     }
 }

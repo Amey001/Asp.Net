@@ -37,8 +37,8 @@ namespace Product_Catalogue.Migrations
                         .IsRequired()
                         .HasColumnType("longtext");
 
-                    b.Property<DateOnly>("mfgDate")
-                        .HasColumnType("date");
+                    b.Property<DateTime>("mfgDate")
+                        .HasColumnType("datetime(6)");
 
                     b.HasKey("Id");
 

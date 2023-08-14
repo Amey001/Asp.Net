@@ -1,0 +1,26 @@
+﻿@using BOL;
+<table>
+    <tr>
+        <td>pid</td>
+        <td>pname</td>
+        <td>disease</td>
+        <td>ROOM TYPE</td>
+        <td>ADMIT DATE</td>
+        <td>EDIT</td>
+        <td>DELETE</td>
+    </tr>
+    @{
+        @foreach(Patient p in ViewBag.list)
+        {
+            <tr>
+                <td>@p.pid</td>
+                <td>@p.pname</td>
+                <td>@p.disease</td>
+                <td>@p.room</td>
+                <td>@p.admitdate</td>
+                <td><a href="/Home/Edit/@p.pid">Edit</a></td>
+                <td><a href="/Home/Delete/@p.pid">Delete</a></td>              
+            </tr>
+        }
+    }
+</table>

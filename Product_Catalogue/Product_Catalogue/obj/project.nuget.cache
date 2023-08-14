@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "htlO1PkyvwX12PjOdJHVKixmIMz0Kr7xXaaQh8Ig3LLYHSYoRSglQT33J7RxA2TazNGBvxaNY7NJB0PJarROkg==",
+  "dgSpecHash": "fMwPa/FL/hw6FRsu2khoxUycS+yh1RMxKzvFCk/Jmz5+WiP97G9fJ8Ip4vCHXMnX9d4oQu4kp+wPqESl7XOrzg==",
   "success": true,
-  "projectFilePath": "C:\\IACSD\\Ms.net\\dotnet_practices\\day6\\Product_Catalogue\\Product_Catalogue\\Product_Catalogue.csproj",
+  "projectFilePath": "C:\\IACSD\\gtihub\\Asp.Net\\Asp.Net\\Product_Catalogue\\Product_Catalogue\\Product_Catalogue.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amubh\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Amubh\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

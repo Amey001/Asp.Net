@@ -1,0 +1,52 @@
+﻿@using BOL;
+@{
+    Patient p = ViewBag.list;
+}
+
+<form action="/Home/Edit" method="post">
+
+
+    <table>
+        <br />
+        <br />
+
+        <tr>
+            <label>Patient pid</label>
+            <input type="text" id="pid" name="pid" value="@p.pid" />
+        </tr>
+        <br />
+        <br />
+
+        <tr>
+            <label>Patient Name</label>
+            <input type="text" id="pname" name="pname" value="@p.pname"/>
+        </tr>
+        <br />
+        <br />
+        <tr>
+            <label>Patient disease</label>
+            <input type="text" id="disease" name="disease" value="@p.disease" />
+        </tr>
+        <br />
+        <br />
+        <tr>
+            <label>Patient Room</label>
+            <input type="text" id="room" name="room" value="@p.room"/>
+        </tr>
+        <br />
+        <br />
+        <tr>
+            <label>Patient admitdate</label>
+            <input type="date" id="admitdate" name="admitdate" />
+        </tr>
+        <br />
+        <br />
+        <tr>
+            <button type="submit">Register</button>
+            <button type="reset">clear</button>
+        </tr>
+
+    </table>
+
+</form>
+

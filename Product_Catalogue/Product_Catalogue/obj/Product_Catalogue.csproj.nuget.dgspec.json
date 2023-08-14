@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\IACSD\\Ms.net\\dotnet_practices\\day6\\Product_Catalogue\\Product_Catalogue\\Product_Catalogue.csproj": {}
+    "C:\\IACSD\\gtihub\\Asp.Net\\Asp.Net\\Product_Catalogue\\Product_Catalogue\\Product_Catalogue.csproj": {}
   },
   "projects": {
-    "C:\\IACSD\\Ms.net\\dotnet_practices\\day6\\Product_Catalogue\\Product_Catalogue\\Product_Catalogue.csproj": {
+    "C:\\IACSD\\gtihub\\Asp.Net\\Asp.Net\\Product_Catalogue\\Product_Catalogue\\Product_Catalogue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\IACSD\\Ms.net\\dotnet_practices\\day6\\Product_Catalogue\\Product_Catalogue\\Product_Catalogue.csproj",
+        "projectUniqueName": "C:\\IACSD\\gtihub\\Asp.Net\\Asp.Net\\Product_Catalogue\\Product_Catalogue\\Product_Catalogue.csproj",
         "projectName": "Product_Catalogue",
-        "projectPath": "C:\\IACSD\\Ms.net\\dotnet_practices\\day6\\Product_Catalogue\\Product_Catalogue\\Product_Catalogue.csproj",
+        "projectPath": "C:\\IACSD\\gtihub\\Asp.Net\\Asp.Net\\Product_Catalogue\\Product_Catalogue\\Product_Catalogue.csproj",
         "packagesPath": "C:\\Users\\Amubh\\.nuget\\packages\\",
-        "outputPath": "C:\\IACSD\\Ms.net\\dotnet_practices\\day6\\Product_Catalogue\\Product_Catalogue\\obj\\",
+        "outputPath": "C:\\IACSD\\gtihub\\Asp.Net\\Asp.Net\\Product_Catalogue\\Product_Catalogue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Amubh\\AppData\\Roaming\\NuGet\\NuGet.Config",
